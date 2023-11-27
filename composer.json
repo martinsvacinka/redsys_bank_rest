@@ -1,6 +1,7 @@
 {
     "name": "martinsvacinka/redsys_bank_rest",
     "description": "Wrapped redsys php bank rest api classes for composer use",
+    "license": "MIT",
     "autoload": {
 		"classmap": ["src/"]
 	},
