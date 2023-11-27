@@ -1,0 +1,17 @@
+{
+    "name": "martinsvacinka/redsys_bank_rest",
+    "description": "Wrapped redsys php bank rest api classes for composer use",
+    "autoload": {
+		"classmap": ["src/"]
+	},
+    "authors": [
+        {
+            "name": "Redsys Servicios de Procesamiento."
+        },
+        {
+            "name": "Martin Svacinka",
+            "email": "martin@svacinka.cz"
+        }
+    ],
+    "require": {}
+}
